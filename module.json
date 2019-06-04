@@ -1,8 +1,8 @@
 {
-  "name": "microbit-samples",
-  "version": "2.1.1",
-  "description": "The micro:bit runtime common abstraction with examples.",
-  "license": "MIT",
+  "name": "foldio-samples",
+  "version": "v0.0.6",
+  "description": "Foldio test and examples.",
+  "license": "Apache",
   "dependencies": {
     "microbit": "baradaran/microbit#vf.006"
   },
