@@ -4,7 +4,7 @@
   "description": "Foldio test and examples.",
   "license": "Apache",
   "dependencies": {
-    "microbit": "baradaran/microbit#vf.006"
+    "microbit": "baradaran/microbit#dev"
   },
   "targetDependencies": {},
   "bin": "./source"
